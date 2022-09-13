@@ -1,7 +1,7 @@
 
 import { v4 as uuidv4 } from 'uuid'
 import React, { useState, useEffect } from 'react';
-import img from './assets/todolist.png'
+import img from './assets/list.png'
 
 
 
@@ -19,7 +19,6 @@ function App() {
   function addLista(){
     if(input){
       setList([...list, {id: uuidv4(), task: input, finished: false}])
-      input.value = ""
    
     }  
    
