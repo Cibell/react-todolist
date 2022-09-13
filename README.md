@@ -1,5 +1,6 @@
 # :triangular_flag_on_post: Projeto - Tudo List
-<img src="https://github.com/Cibell/react-todolist/blob/master/src/assets/todolist.png?raw=true" width= "350px;" height="400px"/>  <img src="https://github.com/Cibell/interface-burguer-order/blob/master/src/assets/pedido.png?raw=true" width= "300px;" height="470px"/>
+
+<img src="https://github.com/Cibell/react-todolist/blob/master/src/assets/todolist2.png?raw=true" width= "350px;" height="400px"/> <img src="https://github.com/Cibell/react-todolist/blob/master/src/assets/todolist.png?raw=true" width= "350px;" height="400px"/> 
 
 # :speech_balloon: Sobre
 
