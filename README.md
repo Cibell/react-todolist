@@ -18,14 +18,29 @@ E utilizei o framework [React](https://pt-br.reactjs.org/).
 
 # :computer: Tecnologias
 
-  [Styled-Components](https://styled-components.com/)  
-  [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/) <br>
-  [React](https://pt-br.reactjs.org/)<br>
-  [Vite](https://vitejs.dev/)<br>
-  [Npm](https://www.npmjs.com/)
+  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+  
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ 
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ 
+ ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+ 
+ ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 # :pencil: Autor
-<img src="https://github.com/Cibell/interface-burguer-order/blob/master/src/assets/Cibele%20desenvolvedora%20front-end.jpeg?raw=true" width= "150px;" height="150px">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Cibell" target="blank">
+        <img src="https://avatars.githubusercontent.com/u/88112866?v=4" width="100px;" alt="Foto da Cibele"/><br>
+        <sub>
+          <b>Cibele (Cibell)</b>
+        </sub>
+      </a>
+    </td>
+    </table>
+
 
 # :closed_book: Licença
 
