@@ -18,17 +18,31 @@ E utilizei o framework [React](https://pt-br.reactjs.org/).
 
 # :computer: Tecnologias
 
-  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-  
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ - [Styled Components](https://styled-components.com/)
  
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
  
- ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+ - [React](https://pt-br.reactjs.org/)
  
- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+ - [Vite](https://vitejs.dev/)
  
- ![image](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+ - [Npm](https://www.npmjs.com/)
+ 
+ ## :checkered_flag: Iniciando ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/Cibell/react-todolist.git
+# Access
+ cd movies
+# Install dependencies
+$ yarn or npm 
+# Run the project
+$ yarn start or npm start 
+# The server will initialize in the <http://127.0.0.1:5174/>
+```
+ 
+ 
 
 # :pencil: Autor
 <table>
